@@ -2,6 +2,8 @@
 
 
 ## 개요
+![image](https://github.com/Taylor0819/covid/assets/168276473/7aa7e8a1-63dc-4b46-93a1-2a0cc71615d5)
+![image](https://github.com/Taylor0819/covid/assets/168276473/156f7955-c035-47ac-9fd8-d2c77f4d7de7)
 
 * 산업의 변화를 생각해보면 코로나라는 변수가 가장 먼저 떠오르고, 특히 온라인, 비대면 산업에 대한 많은 관심과 투자로 산업의 성장이 있었고, 포스트 코로나 시대에는 외부활동이 재개되면서 다시 산업에 영향을 받을것으로 예상
 * 코로나 전,중,후 기간을 기준으로 온라인, 비대면 산업의 변화 확인
@@ -29,77 +31,34 @@ PPT <br>
 데이터 시각화 <br>
 배달/간편식, 인터넷 뱅킹 <br>
 
-### 프로젝트 관리 
+### 프로젝트 수행 절차 
+![image](https://github.com/Taylor0819/covid/assets/168276473/cd484586-e7d5-4b3b-b5ca-c40ff85200e4)
+![image](https://github.com/Taylor0819/covid/assets/168276473/f9e3c823-751d-4ac1-9be9-262098de6bc7)
+
+### 그래프 정의서
+* 그래프 공통양식 : Seaborn의 palette 활용 "Blues", "pastel"
+* 한글폰트 : 맑은고딕, 폰트크기, 그래프크기 등 지정
+![image](https://github.com/Taylor0819/covid/assets/168276473/f9f02f7b-edfa-4a9e-a3c9-dd29ad2f9dc7)
 
 
-### Installing
+### 데이터셋
 
-A step by step series of examples that tell you how to get a development env running
+#### 코로나 확진자 데이터 
+서울 열린데이터 광장 공공데이터 활용 
+![image](https://github.com/Taylor0819/covid/assets/168276473/1f543f6f-0b4d-4403-8e93-dfba0435817d)
+기타 데이터 분석에 사용된 데이터는 모두 공공데이터를 활용
 
-Say what the step will be
 
-```
-Give the example
-```
+### 활용 툴 
+![image](https://github.com/Taylor0819/covid/assets/168276473/adf27e72-91ae-489a-99fb-53e4c1cd36ac)
 
-And repeat
+## 레퍼런스
 
-```
-until finished
-```
+- https://www.ytn.co.kr/_ln/0102_202005170442411154
+- https://www.imaeil.com/page/view/2021103115201141451
+- https://www.getnews.co.kr/news/articleView.html?idxno=558394
+- https://biz.sbs.co.kr/article/20000149561?division=NAVER
+- https://www.klnews.co.kr/news/articleView.html?idxno=312016
+- https://www.hani.co.kr/arti/international/international_general/1015840.html
+- https://www.chosun.com/economy/tech_it/2024/04/15/VGSU3PQBG5CZTLQD6DRBRDKBKI/
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
